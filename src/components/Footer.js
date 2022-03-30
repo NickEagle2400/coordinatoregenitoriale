@@ -44,7 +44,7 @@ const Footer = (props) => {
           <p>Copyright &copy; 2022. ApplyCom S.a.g.l. | VAT CHE-195.139.536 | Via Fam. Carlo Scacchi, 15, Capolago 6285, Svizzera</p>
         </div>
         <div>
-          <p>Developed by <Link to="https://www.nicolasricardi.com" rel="dofollow" target="_blank">Nicolas Ricardi - Web Developer</Link> | Privacy Policy | Cookie Policy </p>
+          <p>Sviluppato da <Link to="https://www.nicolasricardi.com" rel="dofollow" target="_blank">Nicolas Ricardi - Web Developer</Link> | Privacy Policy | Cookie Policy </p>
         </div>
       </div>
     </section>
